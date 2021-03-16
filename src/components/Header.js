@@ -5,7 +5,7 @@ function Header () {
                 <title>Graduation</title>
             </div>
             <div>
-                <h1>GRADUATING FROM COLLEGE</h1>
+                <h1>UNIVERSITY GRADUATION</h1>
             </div>
         </header>
     );

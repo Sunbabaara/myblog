@@ -1,5 +1,5 @@
 import Buttoncon from "./Buttoncon"
-function Body (){
+function Content (){
     return (
         <div>
         <p>
@@ -9,4 +9,4 @@ Graduation is a ceremony performed at the end of an educational season of a stud
         
     );
 }
-export default Body;
+export default Content;
